@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeter</string>
+    <string name="greet">GREET</string>
+    <string name="name">Name</string>
+</resources>
