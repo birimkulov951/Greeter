@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
     public void greet(View view) {
         if(message == null || message.equals("")){
             toastShow("Please, enter your name...");
-            textView.setText("0");
+            textView.setText("");
         } else {
             textView.setText("Hello, " + message + "!!!");
         }
